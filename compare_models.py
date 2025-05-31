@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 import time
 
 # Initialize the Groq client
-client = Groq(api_key='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')
+client = Groq(api_key='')
 
 # Model information dictionary
 MODEL_INFO = {
